@@ -1,0 +1,2 @@
+Invoking command in '/home/imen/ros_test/build/autris_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/imen/ros_test/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/imen/ros_test/install/autris_description
+Invoked command in '/home/imen/ros_test/build/autris_description' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/imen/ros_test/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/imen/ros_test/install/autris_description

@@ -1,0 +1,23 @@
+[0.684s] Invoking command in '/home/imen/ros_test/build/my_robot_bringup': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/imen/ros_test/src/my_robot_bringup -DCMAKE_INSTALL_PREFIX=/home/imen/ros_test/install/my_robot_bringup
+[0.864s] -- The C compiler identification is GNU 9.4.0
+[1.032s] -- The CXX compiler identification is GNU 9.4.0
+[1.042s] -- Check for working C compiler: /usr/bin/cc
+[1.179s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.183s] -- Detecting C compiler ABI info
+[1.319s] -- Detecting C compiler ABI info - done
+[1.349s] -- Detecting C compile features
+[1.350s] -- Detecting C compile features - done
+[1.357s] -- Check for working CXX compiler: /usr/bin/c++
+[1.502s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.505s] -- Detecting CXX compiler ABI info
+[1.658s] -- Detecting CXX compiler ABI info - done
+[1.685s] -- Detecting CXX compile features
+[1.686s] -- Detecting CXX compile features - done
+[1.691s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.743s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.743s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.291s] -- Configuring done
+[2.295s] -- Generating done
+[2.299s] -- Build files have been written to: /home/imen/ros_test/build/my_robot_bringup
+[2.306s] Invoked command in '/home/imen/ros_test/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/imen/ros_test/src/my_robot_bringup -DCMAKE_INSTALL_PREFIX=/home/imen/ros_test/install/my_robot_bringup
+[2.314s] Invoking command in '/home/imen/ros_test/build/my_robot_bringup': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/imen/ros_test/build/my_robot_bringup -- -j8 -l8
